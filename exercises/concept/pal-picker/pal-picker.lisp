@@ -9,7 +9,7 @@
 
 (defun habitat-fitter (weight))
 
-(defun feeding-time-p (fullness))
+(defun feeding-time (fullness))
 
 (defun pet (pet))
 
